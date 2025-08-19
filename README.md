@@ -26,6 +26,11 @@ The API accepts **receiver_email**, **subject**, and **body_text** and sends an 
 
 ---
 
+## Project Demo: Registration System  
+
+[![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://drive.google.com/file/d/1Vjg19PNcNnV4vFkyHlnq8C64OMldGOjG/view?usp=sharing)
+
+
 ## 📦 Installation & Setup  
 
 1. **Clone the repository**
